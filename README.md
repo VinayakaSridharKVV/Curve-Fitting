@@ -1,2 +1,2 @@
 # Curve-Fitting
-Generate data using Generate_data.py file.
+Generate data using generate_data.py file.
